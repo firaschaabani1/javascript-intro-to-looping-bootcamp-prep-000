@@ -20,7 +20,7 @@ function whileLoop(n) {
 
 //DOWHILE Loop
 function doWhileLoop(array) {
-
+  
   function maybeTrue() {
     return Math.random() >= 0.5;
 }
