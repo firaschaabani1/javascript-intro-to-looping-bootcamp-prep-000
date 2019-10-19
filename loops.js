@@ -10,5 +10,6 @@ console.log (n)
     }
 var num (num )
 while (num) {
-
+console.log ("I run once regardless")
 }
+
