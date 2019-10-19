@@ -10,5 +10,5 @@ console.log (n)
     }
 var num (num )
 while (num) {
-  
+
 }
